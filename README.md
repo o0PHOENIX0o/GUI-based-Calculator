@@ -9,7 +9,6 @@ Welcome to the Calculator App repository! This project is a simple calculator ap
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
